@@ -16,4 +16,4 @@ processes will be calculated and showed under the Gantt chart.
 ## Run the Application
 
 1. Clone this repository
-2. Compile and run `Eun.java`
+2. Compile and run `Run.java`
